@@ -10,7 +10,7 @@ object EN extends Messages {
   def greeting(os: String, jdk: String) = ???
 }
 
-@main
+//@main
 def sayhello = {
   println(EN.welcome)
 
